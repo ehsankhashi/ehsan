@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;NextendFrameworkFormTraitFieldset&quot; not found in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkFormAbstractFieldset.php</b> on line <b>8</b><br>
